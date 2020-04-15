@@ -2,10 +2,10 @@
 
 ## Instructions
 
-* Fork the project on your own GitHub account
+- Fork the project on your own GitHub account
 
-* Deploy the project on Netlify
+- Deploy the project on Netlify
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+- Link to the website deployed on Netlify : [Link](https://blissful-sinoussi-87ec65.netlify.com)
